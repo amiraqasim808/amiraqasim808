@@ -58,7 +58,7 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:amiraqasim808@gmail.com"><img src="https://img.shields.io/badge/Gmail-amiraqasim855@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:amiraqasim808@gmail.com"><img src="https://img.shields.io/badge/Gmail-amiraqasim808@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amira-qasim-728573259/"><img src="https://img.shields.io/badge/LinkedIn-Amira%20Qasim-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
