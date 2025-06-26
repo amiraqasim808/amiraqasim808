@@ -14,9 +14,39 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center " >
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,react,html,css,tailwind,bootstrap,redis,graphql,git,github,firebase,vercel,stripe,cloudinary &perline=4" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=redis" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=graphql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git" /></td>
+    <td><img src="https://skillicons.dev/icons?i=github" /></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vercel" /></td>
+    <td><img src="https://skillicons.dev/icons?i=stripe" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cloudinary" /></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ---
 
