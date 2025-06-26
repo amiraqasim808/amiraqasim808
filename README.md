@@ -1,12 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Amira</h1>
 <p align="center"><em>Full Stack Web Developer (MERN) • Backend-Focused • CS Graduate • Problem Solver</em></p>
 
----
-
-🎓 BSc in Computer Science – Higher Technological Institute (2021–2025) | GPA: 3.8  
-🎓 Backend & Frontend Diplomas (Route IT) | Graduation Project: Renalyze – AI-powered kidney scan diagnosis app (Node.js, PDFKit, Cloudinary, Hugging Face)
-
----
 
 ## 🚀 About Me
 
@@ -20,8 +14,8 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,react,html,css,tailwind,bootstrap,redis,graphql,git,github,firebase,vercel,stripe,cloudinary" />
+<p align="center " >
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,react,html,css,tailwind,bootstrap,redis,graphql,git,github,firebase,vercel,stripe,cloudinary &perline=4" />
 </p>
 
 ---
@@ -64,4 +58,4 @@
 
 ---
 
-<p align="center"><em>Built with curiosity · Fueled by code & coffee · Balanced by pets & pull-ups</em></p>
+<p align="center"><em>Built with curiosity · Balanced by pets & pull-ups</em></p>
